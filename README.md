@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a final-year student at NIT Goa
 -----------------------------------
 
-🔬 Exploring AI, Embedded Systems, Optimization, and everything in between 
-🐍 Crafting ML magic in Python | 🧠 Always tuning my brain and models
-🚀 On a mission to bridge code with cognition — one project at a time
+🔬 Exploring AI, Embedded Systems, Optimization, and everything in between   
+🐍 Crafting ML magic in Python | 🧠 Always tuning my brain and models   
+🚀 On a mission to bridge code with cognition — one project at a time   
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [dsouzagab04@gmail.com](mailto:dsouzagab04@gmail.com)
