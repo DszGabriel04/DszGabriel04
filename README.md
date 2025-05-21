@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a final-year student at NIT Goa
 -----------------------------------
 
-🔬 Exploring AI, Embedded Systems, Optimization, and everything in between 🐍 Crafting ML magic in Python | 🧠 Always tuning my brain and models 🚀 On a mission to bridge code with cognition — one project at a time
+🔬 Exploring AI, Embedded Systems, Optimization, and everything in between 
+🐍 Crafting ML magic in Python | 🧠 Always tuning my brain and models
+🚀 On a mission to bridge code with cognition — one project at a time
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [dsouzagab04@gmail.com](mailto:dsouzagab04@gmail.com)
@@ -20,9 +22,3 @@ I'm a final-year student at NIT Goa
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/DszGabriel04" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/gabriel-d-souza-9a67b12b9/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/@gabdsz5" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/DszGabriel04"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DszGabriel04&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
